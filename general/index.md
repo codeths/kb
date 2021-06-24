@@ -5,6 +5,7 @@ title: General Resources
 
 ## Table of Contents
 - [Table of Contents](#table-of-contents)
+- [Jargon](#jargon)
 - [Languages](#languages)
   - [HTML](#html)
   - [CSS](#css)
@@ -13,11 +14,33 @@ title: General Resources
 - [Tools](#tools)
   - [Git](#git)
   - [Visual Studio Code](#visual-studio-code)
+  - [GitHub](#github)
 - [Operating Systems](#operating-systems)
   - [Windows](#windows)
   - [MacOS](#macos)
   - [Linux](#linux)
   - [Chrome OS](#chrome-os)
+
+## Jargon
+
+* Programming language - A human-writable format that declares how to complete a task.
+* Markup language - A human-writable format that defines structured information.
+* Interpreted language - A language which is sent to the place where it is run in its human-written format, and is run on-the-fly.
+* JIT language - A language which is sent to the place where it is run in either its human-written format or an intermediary bytecode, and is compiled into native code just before it is run.
+* Compiled language - A language which is compiled to native code before it is sent to where it is run, and is run in that format.
+* Native code - A non-human-writable, architecture-specific way of representing the exact steps the CPU must perform when the program is run.
+* Compiler - A tool which converts a compiled language to native code, or a JIT language to its intermediary bytecode, and then converts that intermediary bytecode to native code.
+* Client - In network services, the software on the user's computer which interacts with the server.
+* Server - In network services, the software on the host's computer which responds to requests from the client.
+* Network service - A program that responds to other programs running on other machines.
+* Web server - A program that responds to requests complying with the HTTP.
+* HTTP - The HyperText Transfer Protocol is a common protocol for communication on the internet.
+* Run-time - When the program is run.
+* Compile-time - When the program is compiled. In JIT languages without an intermediary bytecode, this is the same as runtime.
+* Open-source - Describes a project from which the source code is made available to the public.
+* Proprietary - Describes a project from which the source code is unavailable tothe public, or available but restrictively licensed.
+* POSIX - A standard that declares the features an operating system should provide and how they should behave. It specifies a set of kernel functions and user utilities.
+* Kernel - A small piece of software that an operating system is built around. It provides facilities for interacting with hardware, including memory and storage, and it controls the allocation of resources between processes. Well-known kernels include Windows NT, Darwin, Linux, and the BSD kernel.
 
 ## Languages
 
