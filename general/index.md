@@ -155,6 +155,10 @@ If you're concerned about telemetry, you can either use the open-source upstream
 0.0.0.0 weu-breeziest-in.cloudapp.net
 ```
 
+### GitHub
+
+GitHub is a proprietary web-based Git repository host. It also provides an issue tracker, text editor, and devops automation tool. They provide extensive [documentation](https://docs.github.com/en) on their services.
+
 ## Operating Systems
 
 ### Windows
