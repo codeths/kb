@@ -163,7 +163,7 @@ Windows is a proprietary operating system that began as a graphical shell for MS
 
 ### MacOS
 
-MacOS is a proprietary operating system based on the open-source Darwin kernel. It is POSIX-compliant, so it is easy to port headless software if you have the compiler toolchain. However, Apple does not publish toolchains for other systems, so cross-compiling for MacOS from other systems requires the use of unofficial tools. MacOS also omits support for Vulkan and OpenGL. The combination of these factors means that many projects don't bother targetting MacOS, and instead rely on community ports.
+MacOS is a proprietary operating system based on the open-source Darwin kernel. It is POSIX-compliant, so it is easy to port software if you have the compiler toolchain. However, Apple does not publish toolchains for other systems, so cross-compiling for MacOS from other systems requires the use of unofficial tools. MacOS also omits support for Vulkan and OpenGL. The combination of these factors means that many projects don't bother targetting MacOS, and instead rely on community ports.
 
 ### Linux
 
