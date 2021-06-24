@@ -1,6 +1,6 @@
 ---
 layout: page
-title: General Resources
+title: Project Resources
 ---
 
 ## Table of Contents
