@@ -12,7 +12,9 @@ title: Project Resources
 The ETHSBell Rewrite is an attempt to bring ETHSBell out of the past (the past being "4 years ago" and "PHP") and into the present with a complete rewrite in Rust.
 
 [Deployment Guide](https://github.com/chromezoneeths/ethsbell-rewrite/#deployment) - 
-[Development Instance](https://bell-dev.wolo.dev)
+[Development Instance](https://bell-dev.wolo.dev) - 
+[Production Instance](https://ethsbell.app) - 
+[Willow's Docs](https://github.com/chromezoneeths/ethsbell-rewrite/wiki/WillowsDocs)
 
 The rewrite uses an API versioning system. It behaves similarly to the `major` component of semver, in that it is incremented if and when potentially breaking changes are made. The currently available versions are as follows:
 * v1
