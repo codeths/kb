@@ -18,7 +18,7 @@ The ETHSBell Rewrite is an attempt to bring ETHSBell out of the past (the past b
 
 The rewrite uses an API versioning system. It behaves similarly to the `major` component of semver, in that it is incremented if and when potentially breaking changes are made. The currently available versions are as follows:
 * v1
-* legacy (unavailable in the development instance; it can be found in the "compat" branch)
+* legacy
 
 Adding new data to an endpoint's response is not considered a breaking change, so ensure your deserializer is tolerant of unknown keys. (for example, make sure you don't describe the response with `#[serde(deny_unknown_fields)]`)
 
